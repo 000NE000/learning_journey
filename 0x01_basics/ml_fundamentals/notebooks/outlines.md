@@ -1,4 +1,4 @@
-## 0x01. 
+## 0x01. Machine Learning
 #### 1.1 Definition of Machine Learning
 - **Arthur Samuel's Definition**:
 	- Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
