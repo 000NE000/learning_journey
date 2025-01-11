@@ -1,0 +1,43 @@
+name: Study Log Automation
+
+on:
+  issues:
+    types:
+      - closed  # 이슈가 닫힐 때 트리거
+  workflow_dispatch: # 수동 실행도 가능
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Append study log with metadata
+      run: |
+        # Extract metadata from the closed issue
+        CLOSED_ISSUE_TITLE="${{ github.event.issue.title }}"
+        CLOSED_ISSUE_BODY="${{ github.event.issue.body }}"
+        CLOSED_AT=$(date -u +"%Y-%m-%d")
+        CLOSED_ISSUE_LABELS=$(echo "${{ github.event.issue.labels }}" | jq -r '.[].name' | paste -sd ", " -)
+        CLOSED_ISSUE_MILESTONE="${{ github.event.issue.milestone.title }}"
+
+        # Fallback for labels and milestone if they are not set
+        if [ -z "$CLOSED_ISSUE_LABELS" ]; then
+          CLOSED_ISSUE_LABELS="None"
+        fi
+        if [ -z "$CLOSED_ISSUE_MILESTONE" ]; then
+          CLOSED_ISSUE_MILESTONE="None"
+        fi
+
+        # Append the log entry to the study-log.md file
+        echo -e "\n## $CLOSED_AT\n- **Topic**: $CLOSED_ISSUE_TITLE\n- **Description**: $CLOSED_ISSUE_BODY\n- **Labels**: $CLOSED_ISSUE_LABELS\n- **Milestone**: $CLOSED_ISSUE_MILESTONE\n" >> study-log.md
+
+    - name: Commit and Push
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add study-log.md
+        git commit -m "Update study log for $CLOSED_AT" || echo "No changes to commit"
+        git push
