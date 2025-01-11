@@ -6,3 +6,9 @@
 > - **Notes**: [Any additional notes or questions]
 
 # 공부 기록
+## 2025-01-11
+- **Topic**: 
+- **Description**: 
+- **Labels**: None
+- **Milestone**: None
+
