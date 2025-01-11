@@ -1,1 +1,0 @@
-1. Andrew Ng outline lecture 1/3 
