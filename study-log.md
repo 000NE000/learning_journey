@@ -76,3 +76,24 @@ start : 2025-01-13
 - **Labels**: None
 - **Milestone**: None
 
+
+## 2025-01-12
+- **Topic**: [Study] ML basics - Andrew Ng
+- **Description**: ###### Date
+
+
+###### Topic
+- **Topic**: 
+
+###### Description
+- **Description**:
+
+###### Time Spent
+- **Time Spent**:
+
+###### Notes
+- **Notes**:
+
+- **Labels**: None
+- **Milestone**: None
+
