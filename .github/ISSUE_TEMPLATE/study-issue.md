@@ -5,17 +5,17 @@ title: "[Study] "
 labels: ["study"]
 ---
 
-## Date
+###### Date
 YYYY-MM-DD
 
-## Topic
+###### Topic
 - **Topic**:
 
-## Description
+###### Description
 - **Description**:
 
-## Time Spent
+###### Time Spent
 - **Time Spent**:
 
-## Notes
+###### Notes
 - **Notes**:
