@@ -36,3 +36,25 @@ YYYY-MM-DD
 - **Labels**: None
 - **Milestone**: None
 
+
+## 2025-01-12
+- **Topic**: [Study] python basic 1/2
+- **Description**: 
+###### Topic
+- **lists**
+- **loop**
+- **functions**
+- **hw1**  
+
+###### Description
+- codecademy python
+
+###### Time Spent
+- **Time Spent**:
+
+###### Notes
+- **Notes**:
+
+- **Labels**: None
+- **Milestone**: None
+
