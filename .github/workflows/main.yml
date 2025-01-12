@@ -3,7 +3,8 @@ name: Study Log Automation
 on:
   issues:
     types:
-      - closed  # 이슈가 닫힐 때 트리거
+      - opened # trigger when an issue is created 
+      - closed  # Keep the existing trigger for closed issues
   workflow_dispatch: # 수동 실행도 가능
   
 concurrency:
