@@ -13,9 +13,3 @@ YYYY-MM-DD
 
 ###### Description
 - **Description**:
-
-###### Time Spent
-- **Time Spent**:
-
-###### Notes
-- **Notes**:
