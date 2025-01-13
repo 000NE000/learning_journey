@@ -58,3 +58,84 @@ YYYY-MM-DD
 - **Labels**: None
 - **Milestone**: None
 
+
+## 2025-01-12
+- **Topic**: [Study] python basic 2/2
+- **Description**: ###### Date
+start : 2025-01-13
+
+###### Topic
+- **Topic**:
+
+###### Description
+- **Description**:
+
+###### Notes
+- **Notes**: codecademy python
+
+- **Labels**: None
+- **Milestone**: None
+
+
+## 2025-01-12
+- **Topic**: [Study] ML basics - Andrew Ng
+- **Description**: ###### Date
+
+
+###### Topic
+- **Topic**: 
+
+###### Description
+- **Description**:
+
+###### Time Spent
+- **Time Spent**:
+
+###### Notes
+- **Notes**:
+
+- **Labels**: None
+- **Milestone**: None
+
+
+## 2025-01-12
+- **Topic**: [Study] NLP basics
+- **Description**: ###### Date
+YYYY-MM-DD
+
+###### Topic
+- **Topic**:
+
+###### Description
+- **Description**:
+
+###### Time Spent
+- **Time Spent**:
+
+###### Notes
+- **Notes**:
+
+- **Labels**: None
+- **Milestone**: None
+
+
+## 2025-01-12
+- **Topic**: [Study] pandas exercising
+- **Description**: ###### Date
+YYYY-MM-DD
+
+###### Topic
+- **Topic**:
+
+###### Description
+- **Description**:
+
+###### Time Spent
+- **Time Spent**:
+
+###### Notes
+- **Notes**:
+
+- **Labels**: None
+- **Milestone**: None
+
