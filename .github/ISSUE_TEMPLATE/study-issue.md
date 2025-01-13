@@ -5,7 +5,7 @@ title: "[Study] "
 labels: ["study"]
 ---
 
-###### Date
+###### End Date
 YYYY-MM-DD
 
 ###### Topic
