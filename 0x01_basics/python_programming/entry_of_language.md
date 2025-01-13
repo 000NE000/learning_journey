@@ -15,3 +15,10 @@
     - The difference between built-in and user-defined functions and some common built-in functions python offers
     - How we can reuse function output with the return keyword, as well as multiple returns.
     - Where variables can be accessed in our programs that use functions
+
+    - [lambda fuction]
+
+    - [high order function]
+        - map
+        - filter
+        - sorted
