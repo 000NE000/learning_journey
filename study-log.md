@@ -139,3 +139,21 @@ YYYY-MM-DD
 - **Labels**: None
 - **Milestone**: None
 
+
+## 2025-01-16
+- **Topic**: [Study] python basic 2/2
+- **Description**: ###### Date
+start : 2025-01-13
+
+###### Topic
+- **Topic**:
+
+###### Description
+- **Description**:
+
+###### Notes
+- **Notes**: codecademy python
+
+- **Labels**: None
+- **Milestone**: None
+
