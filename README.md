@@ -3,7 +3,7 @@ A comprehensive record of my learning journey in Python, ML, NLP, and PyTorch
 
 It is also designed to build an “artistic works” recommendation system and deploy it as a service. Below is an in-depth roadmap and a directory structure for scalable organization.
 
-[concept list][/Users/macforhsj/Desktop/learning_journey/0x01_basics/concept_tree/WhatShouldILearn.md](https://github.com/000NE000/learning_journey/blob/main/0x01_basics/concept_tree/WhatShouldILearn.md)
+[concept list](https://github.com/000NE000/learning_journey/blob/main/0x01_basics/concept_tree/WhatShouldILearn.md)
 ---
 
 ## 1. Roadmap Overview
