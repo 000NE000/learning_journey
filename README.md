@@ -6,38 +6,7 @@ It is also designed to build an “artistic works” recommendation system and d
 [concept list](https://github.com/000NE000/learning_journey/blob/main/0x01_basics/concept_tree/WhatShouldILearn.md)
 ---
 
-## 1. Roadmap Overview
-
-### **Phase 1**
-- **Goal**: Build a solid foundation in Python, ML, and NLP fundamentals, and learn basic PyTorch usage.
-  - **Key Tasks**:
-    - Complete a Python course (e.g., Codecademy).
-    - Implement practice exercises for machine learning fundamentals and simple NLP tasks.
-    - Familiarize yourself with PyTorch syntax and basic neural network examples (e.g., CNN/RNN).
-
-### **Phase 2**
-- **Goal**: Collect data (movies, books) and define labeling standards (“values you can get” from each work).
-  - **Key Tasks**:
-    - Crawl or fetch data from IMDb, TMDb API, Goodreads, and Google Books API.
-    - Define labels (e.g., inspiration, emotional stimulation, educational value) for each item.
-    - Perform text preprocessing (tokenization, lemmatization/stemming, stopword removal) and conduct EDA to check data distribution, null values, and duplicates.
-    - Finalize project architecture by determining which model or approach to adopt.
-
-### **Phase 3**
-- **Goal**: Develop a meaning-based embedding and recommendation algorithm using Python and PyTorch.
-  - **Key Tasks**:
-    - Research or experiment with various text embedding methods (Word2Vec, GloVe, FastText, BERT).
-    - Implement a recommendation model (e.g., content-based, collaborative filtering, or hybrid).
-    - Evaluate performance (Precision, Recall, F1 Score). Tune hyperparameters (learning rate, batch size, network depth).
-    - Integrate with **FastAPI** to expose recommendation endpoints. Containerize the app with **Docker**.
-
-### **Phase 4**
-- **Goal**: Deploy the service to the cloud, test reliability, and finalize documentation.
-  - **Key Tasks**:
-    - Push Docker images to AWS/GCP and configure the environment (AWS Elastic Beanstalk, EC2, or GCP services).
-    - Conduct stress testing to measure API throughput and optimize performance.
-    - Implement monitoring (Sentry, ELK stack, or custom logging).
-    - Document the entire project for GitHub and your portfolio. Write technical blog posts and share them on LinkedIn or GitHub Pages.
+## 1. ![Roadmap](https://github.com/000NE000/learning_journey/blob/0c4165b857406f57b8976e904a431e9a3549c4ff/roadmap.md)
 
 ---
 
