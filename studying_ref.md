@@ -7,16 +7,22 @@
    - **Resources**:
      - [Pandas Official Documentation](https://pandas.pydata.org/docs/).
      - [NumPy Tutorials](https://numpy.org/doc/stable/user/quickstart.html).
+     - [numpy exercise](https://github.com/rougier/numpy-100/tree/master)
+     - [pandas exercise](https://github.com/guipsamora/pandas_exercises)
    - **Practice**:
+     - exercising by reference in others docs
      - Load datasets like [Titanic](https://www.kaggle.com/c/titanic) or [Iris](https://archive.ics.uci.edu/ml/datasets/iris).
      - Perform filtering, grouping, and aggregation.
      - Visualize data with Matplotlib and Seaborn: [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html).
+  
 
-
-2. **Machine Learning Basics**
+1. **Machine Learning Basics**
    - **Resources**:
-     - [Andrew Ng’s ML Course (Coursera)](https://www.coursera.org/learn/machine-learning).
+     - [ML fundamentals by Anderew Ng](https://www.coursera.org/learn/machine-learning).
      - [Scikit-learn Quickstart](https://scikit-learn.org/stable/getting_started.html).
+     - [deep learning specialization by Anderew Ng](https://www.coursera.org/specializations/deep-learning)
+     - [NLP by Andrew Ng]()
+  
    - **Implementation**:
      - Train a Linear Regression model on a small dataset like housing prices ([Kaggle Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)).
 
