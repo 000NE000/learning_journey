@@ -77,3 +77,32 @@
 - 99% of the economic value from machine learning comes from supervised learning today.
 - Major drivers include applications in advertising, manufacturing, and more.
 
+## 0x03. Unsupervised Learning in ML
+#### 3.1 def 
+- No output labels are provided.
+- The goal is to find structure, patterns, or interesting insights in the data.
+#### 3.2 Clustering: A Core Unsupervised Learning Method
+###### **Definition**: 
+Groups unlabeled data into clusters based on patterns.
+###### **Examples**:
+1. **Google News**:
+   - Groups related news articles by analyzing common words like "panda," "twin," or "zoo."
+   - The clustering algorithm automatically identifies related articles without human supervision.
+2. **DNA Clustering**:
+   - Uses DNA microarray data to group individuals based on gene expression.
+   - Colors (red, green, gray) represent gene activity, and clustering reveals distinct types of individuals.
+3. **Market Segmentation**:
+   - Companies use clustering to group customers into market segments.
+   - Example: DeepLearning.ai segmented learners into categories like skill seekers, career developers, and AI enthusiasts.
+###### Characteristics
+- No predefined labels or "right answers" are provided to the algorithm.
+- Automatically identifies clusters or groups in data.
+
+#### 3.3 **Anomaly Detection**:
+- Identifies unusual events or patterns in data.
+- Critical for applications like fraud detection in financial systems.
+#### 3.4 **Dimensionality Reduction**:
+- Compresses large datasets into smaller ones while minimizing information loss.
+- Useful for simplifying data without significant sacrifices in quality.
+
+
